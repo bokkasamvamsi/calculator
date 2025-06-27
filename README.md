@@ -15,11 +15,6 @@ This is a basic **calculator web application** built using **HTML**, **CSS**, an
 * Stylish and responsive design
 * Keyboard-independent (fully clickable)
 
-### 🚀 Live Preview
-
-> *(Optional: Add GitHub Pages/Netlify/CodePen link here)*
-> Example: [Live Demo](https://your-link.com)
-
 ### 🛠️ Tech Stack
 
 * **HTML**: Structure and layout
@@ -33,7 +28,6 @@ calculator/
 ├── index.html    # Main HTML file
 └── README.md     # Project documentation
 ```
-
 ### 🔧 How It Works
 
 * Each button click updates a global `calculation` string.
@@ -46,5 +40,3 @@ calculator/
 This calculator uses JavaScript's `eval()` for evaluation. While sufficient for basic use, `eval()` should be avoided in production apps due to security risks. Consider using a math parser library like `math.js` for safer handling.
 
 ### 📷 Screenshot
-
-
